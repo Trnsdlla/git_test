@@ -1,0 +1,7 @@
+Wassup World, this is the
+beginning of programming
+journey. My goal is an aggressive
+6 month milestone of employment
+ready as a junior web developer
+using The Odin Project.
+Wish me luck!
